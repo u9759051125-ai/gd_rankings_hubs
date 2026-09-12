@@ -1,0 +1,707 @@
+{
+    "impossible_levels_list": [
+        {
+            "rank": 1,
+            "name": "Cyclolcyc",
+            "creators": "Penny",
+            "tps_fps": "2400 FPS",
+            "length": "1m 58s",
+            "points": 2500.0
+        },
+        {
+            "rank": 2,
+            "name": "Ton 618",
+            "creators": "Rai, kaoc",
+            "tps_fps": "3000 FPS",
+            "length": "1m 15s",
+            "points": 2498.31
+        },
+        {
+            "rank": 3,
+            "name": "METH DEATH",
+            "creators": "AuraXalaiv, erzor",
+            "tps_fps": "480 FPS",
+            "length": "1m 48s",
+            "points": 2496.62
+        },
+        {
+            "rank": 4,
+            "name": "TWOC",
+            "creators": "Ewe23, nanayuisei",
+            "tps_fps": "3600 TPS",
+            "length": "1m 27s",
+            "points": 2494.93
+        },
+        {
+            "rank": 5,
+            "name": "Searing Rain",
+            "creators": "Ewe23, Wuro, nanayuisei, eightos, HyshXD, Kazu, PhiPan",
+            "tps_fps": "3000 FPS",
+            "length": "2m 04s",
+            "points": 2493.24
+        },
+        {
+            "rank": 6,
+            "name": "Centipede",
+            "creators": "xdhalcyon",
+            "tps_fps": "2400 TPS",
+            "length": "1m 26s",
+            "points": 2491.55
+        },
+        {
+            "rank": 7,
+            "name": "Yggdrasil",
+            "creators": "Rai, Kazu",
+            "tps_fps": "3000 FPS",
+            "length": "1m 39s",
+            "points": 2489.86
+        },
+        {
+            "rank": 8,
+            "name": "Unnerfed Silent Circles",
+            "creators": "Cyrillic",
+            "tps_fps": "1000 TPS",
+            "length": "1m 24s",
+            "points": 2488.17
+        },
+        {
+            "rank": 9,
+            "name": "Rain",
+            "creators": "LuLoX07",
+            "tps_fps": "240 TPS",
+            "length": "1m 24s",
+            "points": 2486.48
+        },
+        {
+            "rank": 10,
+            "name": "REALITY",
+            "creators": "Stygiannis",
+            "tps_fps": "240 TPS",
+            "length": "1m 09s",
+            "points": 2484.79
+        },
+        {
+            "rank": 11,
+            "name": "Tormented",
+            "creators": "TenDart, Hospice, xewoiy, TheRealMartini, PhiPan, Giroskyyter, NotShair, Static Star, mrclnne",
+            "tps_fps": "2000 TPS",
+            "length": "1m 30s",
+            "points": 2483.1
+        },
+        {
+            "rank": 12,
+            "name": "IRONclub",
+            "creators": "xdhalcyon, TenDart, shownmaster",
+            "tps_fps": "1616 TPS",
+            "length": "1m 46s",
+            "points": 2481.41
+        },
+        {
+            "rank": 13,
+            "name": "Red blade",
+            "creators": "TheRealMartini",
+            "tps_fps": "3600 TPS",
+            "length": "59s",
+            "points": 2479.72
+        },
+        {
+            "rank": 14,
+            "name": "Lunar Empress",
+            "creators": "TenDart, xewoiy, Darky, xdhalcyon, HyshXD",
+            "tps_fps": "3906 TPS",
+            "length": "1m 17s",
+            "points": 2478.03
+        },
+        {
+            "rank": 15,
+            "name": "Wistfully",
+            "creators": "nanayuisei, Veyltheris, AuraXalaiv, Aubergine111, Y7N, PhiPan, blowfishhh",
+            "tps_fps": "720 TPS",
+            "length": "1m 59s",
+            "points": 2476.34
+        },
+        {
+            "rank": 16,
+            "name": "Homege",
+            "creators": "Apocalipse, lujain, Y7N",
+            "tps_fps": "2666 TPS",
+            "length": "1m 00s",
+            "points": 2474.65
+        },
+        {
+            "rank": 17,
+            "name": "Schafs II",
+            "creators": "Ewe23, eightos, LucyMoonlight, Tomejto, Wuro, knali, Pieguy57, hozaiki77, Hipolaaa, nhauqq",
+            "tps_fps": "3069 FPS",
+            "length": "2m 24s",
+            "points": 2472.96
+        },
+        {
+            "rank": 18,
+            "name": "Tob odin",
+            "creators": "huiloebuchee",
+            "tps_fps": "3333 TPS",
+            "length": "42s",
+            "points": 2471.27
+        },
+        {
+            "rank": 19,
+            "name": "MINUSdynamix",
+            "creators": "TSViti",
+            "tps_fps": "1260 TPS",
+            "length": "1m 24s",
+            "points": 2469.58
+        },
+        {
+            "rank": 20,
+            "name": "Fear Factory [Old Version]",
+            "creators": "Etermia, Irbous, Yarik11319",
+            "tps_fps": "1200 FPS",
+            "length": "1m 12s",
+            "points": 2467.89
+        },
+        {
+            "rank": 21,
+            "name": "Tarsorado Demon",
+            "creators": "calculus19, dennis_07, Aelteria, Azertite, dudodo, hexitine, GumpingIt, Royaltek",
+            "tps_fps": "4001 FPS",
+            "length": "2m 13s",
+            "points": 2466.2
+        },
+        {
+            "rank": 22,
+            "name": "Bare Steel",
+            "creators": "sebi5568",
+            "tps_fps": "2000 TPS",
+            "length": "1m 33s",
+            "points": 2464.51
+        },
+        {
+            "rank": 23,
+            "name": "Rainy Day",
+            "creators": "LuLoX07",
+            "tps_fps": "240 TPS",
+            "length": "1m 24s",
+            "points": 2462.82
+        },
+        {
+            "rank": 24,
+            "name": "Ballistic wistfully",
+            "creators": "eightos, Tomejto, maus999",
+            "tps_fps": "3000 FPS",
+            "length": "3m 31s",
+            "points": 2461.13
+        },
+        {
+            "rank": 25,
+            "name": "Scotophobia",
+            "creators": "xewoiy, NiKUMiKY",
+            "tps_fps": "2000 FPS",
+            "length": "30s",
+            "points": 2459.44
+        },
+        {
+            "rank": 26,
+            "name": "Rampant Circles",
+            "creators": "NXISE, PhiPan",
+            "tps_fps": "1200 TPS",
+            "length": "1m 34s",
+            "points": 2457.75
+        },
+        {
+            "rank": 27,
+            "name": "Ganja Wizard",
+            "creators": "Stygiannis",
+            "tps_fps": "240 TPS",
+            "length": "1m 11s",
+            "points": 2456.06
+        },
+        {
+            "rank": 28,
+            "name": "Fartscapes",
+            "creators": "Apocalipse, lujain, GMDRika",
+            "tps_fps": "2026 TPS",
+            "length": "1m 21s",
+            "points": 2454.37
+        },
+        {
+            "rank": 29,
+            "name": "paranormal express",
+            "creators": "crmsn",
+            "tps_fps": "1650 FPS",
+            "length": "1m 11s",
+            "points": 2452.68
+        },
+        {
+            "rank": 30,
+            "name": "homg",
+            "creators": "lujain, vantasia, gurt267, nawok, katie",
+            "tps_fps": "1440 TPS",
+            "length": "1m 00s",
+            "points": 2450.99
+        },
+        {
+            "rank": 31,
+            "name": "Desideration",
+            "creators": "Apocalipse, lujain, GMDRika",
+            "tps_fps": "1666 TPS",
+            "length": "1m 54s",
+            "points": 2449.3
+        },
+        {
+            "rank": 32,
+            "name": "mute evasion [Old Version]",
+            "creators": "nanayuisei, maxfs",
+            "tps_fps": "1440 TPS",
+            "length": "1m 25s",
+            "points": 2447.61
+        },
+        {
+            "rank": 33,
+            "name": "deadly deimos",
+            "creators": "Henlex340",
+            "tps_fps": "1550 TPS",
+            "length": "1m 06s",
+            "points": 2445.92
+        },
+        {
+            "rank": 34,
+            "name": "Cyberphobia",
+            "creators": "2A0L0I3",
+            "tps_fps": "360 TPS",
+            "length": "2m 00s",
+            "points": 2444.23
+        },
+        {
+            "rank": 35,
+            "name": "THE LIMIT",
+            "creators": "realhutoew",
+            "tps_fps": "3000 FPS",
+            "length": "3m 17s",
+            "points": 2442.54
+        },
+        {
+            "rank": 36,
+            "name": "METH DEATH X",
+            "creators": "AuraXalaiv, erzor",
+            "tps_fps": "480 FPS",
+            "length": "1m 43s",
+            "points": 2440.85
+        },
+        {
+            "rank": 37,
+            "name": "Psychomaki [Unnerfed]",
+            "creators": "Apocalipse, GMDRIKA",
+            "tps_fps": "3000 FPS",
+            "length": "38s",
+            "points": 2439.17
+        },
+        {
+            "rank": 38,
+            "name": "The Golden",
+            "creators": "Hipolaaa, eightos",
+            "tps_fps": "1440 FPS",
+            "length": "39s",
+            "points": 2437.48
+        },
+        {
+            "rank": 39,
+            "name": "CUM [Unreleased]",
+            "creators": "AuraXalaiv, glitchi",
+            "tps_fps": "1242 FPS",
+            "length": "48s",
+            "points": 2435.79
+        },
+        {
+            "rank": 40,
+            "name": "Chromology",
+            "creators": "ThatSoapGuy, shownmaster",
+            "tps_fps": "676 TPS",
+            "length": "48s",
+            "points": 2434.1
+        },
+        {
+            "rank": 41,
+            "name": "Deep Pressure",
+            "creators": "SureFir3, VizzionGD",
+            "tps_fps": "1440 TPS",
+            "length": "1m 13s",
+            "points": 2432.41
+        },
+        {
+            "rank": 42,
+            "name": "Joke Resubmission",
+            "creators": "Relayne, muriday, maxfs",
+            "tps_fps": "1440 TPS",
+            "length": "1m 02s",
+            "points": 2430.72
+        },
+        {
+            "rank": 43,
+            "name": "Unwind [Old Version]",
+            "creators": "peonyy",
+            "tps_fps": "720 FPS",
+            "length": "59s",
+            "points": 2429.03
+        },
+        {
+            "rank": 44,
+            "name": "Silent Engine I",
+            "creators": "Cyrillic",
+            "tps_fps": "248 TPS",
+            "length": "1m 42s",
+            "points": 2427.34
+        },
+        {
+            "rank": 45,
+            "name": "Venom Legend",
+            "creators": "lUltraVenoml",
+            "tps_fps": "1200 TPS",
+            "length": "1m 32s",
+            "points": 2425.65
+        },
+        {
+            "rank": 46,
+            "name": "Quadrexom",
+            "creators": "IBronForce, OeNNNNN",
+            "tps_fps": "1558 TPS",
+            "length": "53s",
+            "points": 2423.96
+        },
+        {
+            "rank": 47,
+            "name": "Shipping",
+            "creators": "Apocalipse, GMDRIKA",
+            "tps_fps": "2026 TPS",
+            "length": "1m 28s",
+            "points": 2422.27
+        },
+        {
+            "rank": 48,
+            "name": "Everyone never clear",
+            "creators": "AuraXalaiv",
+            "tps_fps": "4000 TPS",
+            "length": "1m 34s",
+            "points": 2420.58
+        },
+        {
+            "rank": 49,
+            "name": "firefly",
+            "creators": "xdhalcyon, Apocalipse, nanayuisei, Veyltheris, xewoiy, jojo989, syee",
+            "tps_fps": "720 TPS",
+            "length": "1m 06s",
+            "points": 2418.89
+        },
+        {
+            "rank": 50,
+            "name": "Insomnium",
+            "creators": "RAWRKYRE",
+            "tps_fps": "1254 TPS",
+            "length": "58s",
+            "points": 2417.2
+        }
+    ],
+    "demon_list_main": [
+        {
+            "rank": 1,
+            "name": "Society",
+            "publisher": "Neomarbilan",
+            "verifier": "[WBT] wPopoff"
+        },
+        {
+            "rank": 2,
+            "name": "Thinking Space II",
+            "publisher": "CairoX",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 3,
+            "name": "Amethyst",
+            "publisher": "iMist",
+            "verifier": "[WBT] wPopoff"
+        },
+        {
+            "rank": 4,
+            "name": "Flamewall",
+            "publisher": "Narwall",
+            "verifier": "[400] CuatrocientosYT"
+        },
+        {
+            "rank": 5,
+            "name": "Tidal Wave",
+            "publisher": "OniLink",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 6,
+            "name": "Green Bullet",
+            "publisher": "cherryteam",
+            "verifier": "[UFA] Nickname09"
+        },
+        {
+            "rank": 7,
+            "name": "ORBIT",
+            "publisher": "MindCap",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 8,
+            "name": "Antarctic Lights",
+            "publisher": "declanlc",
+            "verifier": "Axinity"
+        },
+        {
+            "rank": 9,
+            "name": "Nullscapes",
+            "publisher": "Kiba",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 10,
+            "name": "Quanteuse processing",
+            "publisher": "Renn241",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 11,
+            "name": "BOOBAWAMBA",
+            "publisher": "Akunakunn",
+            "verifier": "eastshark"
+        },
+        {
+            "rank": 12,
+            "name": "The Bloop",
+            "publisher": "[TARIQ] murkkat",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 13,
+            "name": "Every End",
+            "publisher": "MindCap",
+            "verifier": "[FOWL] Hqmy"
+        },
+        {
+            "rank": 14,
+            "name": "Penumbral",
+            "publisher": "cherryteam",
+            "verifier": "[UFA] w3rty"
+        },
+        {
+            "rank": 15,
+            "name": "Silent clubstep",
+            "publisher": "TheRealSailent",
+            "verifier": "[DL] zoe"
+        },
+        {
+            "rank": 16,
+            "name": "Ashley Wave Trials",
+            "publisher": "oddmod",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 17,
+            "name": "Ultra Paracosm",
+            "publisher": "declanlc",
+            "verifier": "[HOLA] Wity"
+        },
+        {
+            "rank": 18,
+            "name": "andromeda",
+            "publisher": "Insxne97",
+            "verifier": "[WBT] Taiago"
+        },
+        {
+            "rank": 19,
+            "name": "KILLSTEALER",
+            "publisher": "rynoxious",
+            "verifier": "[OG B] kloone"
+        },
+        {
+            "rank": 20,
+            "name": "Subsuming Vortex",
+            "publisher": "[TCD] Cursed",
+            "verifier": "[TCD] Cursed"
+        },
+        {
+            "rank": 21,
+            "name": "Anathema",
+            "publisher": "nikroplays",
+            "verifier": "[IQB7] Whizkid05"
+        },
+        {
+            "rank": 22,
+            "name": "Avernus",
+            "publisher": "PockeWindfish",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 23,
+            "name": "Acheron",
+            "publisher": "ryamu",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 24,
+            "name": "Spectre",
+            "publisher": "xander",
+            "verifier": "PersonHuman42"
+        },
+        {
+            "rank": 25,
+            "name": "Menace",
+            "publisher": "Arraegen",
+            "verifier": "[IQB7] Whizkid05"
+        },
+        {
+            "rank": 26,
+            "name": "Abyss of Darkness",
+            "publisher": "Exen",
+            "verifier": "[TCD] Cursed"
+        },
+        {
+            "rank": 27,
+            "name": "Defeated Circles",
+            "publisher": "GXQ",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 28,
+            "name": "FOREST OF SPIKES",
+            "publisher": "bims",
+            "verifier": "Brian_Cheese"
+        },
+        {
+            "rank": 29,
+            "name": "Tunnel of Despair",
+            "publisher": "Exen",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 30,
+            "name": "Kyouki",
+            "publisher": "｛出見塩｝",
+            "verifier": "｛出見塩｝"
+        },
+        {
+            "rank": 31,
+            "name": "Based After Based",
+            "publisher": "Akunakunn",
+            "verifier": "DiamondSplash"
+        },
+        {
+            "rank": 32,
+            "name": "The Lightning Rod",
+            "publisher": "Lavatrex",
+            "verifier": "Lavatrex"
+        },
+        {
+            "rank": 33,
+            "name": "Slaughterhouse",
+            "publisher": "icedcave",
+            "verifier": "[TCD] Doggie"
+        },
+        {
+            "rank": 34,
+            "name": "Subterminal Point",
+            "publisher": "SyQual",
+            "verifier": "[ILUV] PoCle"
+        },
+        {
+            "rank": 35,
+            "name": "KOCMOC",
+            "publisher": "cherryteam",
+            "verifier": "[67] Zoink"
+        },
+        {
+            "rank": 36,
+            "name": "cognitohazard",
+            "publisher": "MercuryDT",
+            "verifier": "[IQB7] Whizkid05"
+        },
+        {
+            "rank": 37,
+            "name": "Maniacal Chains",
+            "publisher": "LordDivinity",
+            "verifier": "spcreat"
+        },
+        {
+            "rank": 38,
+            "name": "BEING HOME",
+            "publisher": "Turtl123",
+            "verifier": "[OG] goobs"
+        },
+        {
+            "rank": 39,
+            "name": "Deimos",
+            "publisher": "ItsHybrid",
+            "verifier": "[TCD] Doggie"
+        },
+        {
+            "rank": 40,
+            "name": "Sacrifice",
+            "publisher": "Laniakea",
+            "verifier": "Laniakea"
+        },
+        {
+            "rank": 41,
+            "name": "CHIL",
+            "publisher": "McCoco",
+            "verifier": "McCoco"
+        },
+        {
+            "rank": 42,
+            "name": "zorin",
+            "publisher": "태리",
+            "verifier": "[미소노 미카] 구아이"
+        },
+        {
+            "rank": 43,
+            "name": "Sakupen Circles",
+            "publisher": "[TCD] Diamond",
+            "verifier": "[TCD] Diamond"
+        },
+        {
+            "rank": 44,
+            "name": "The Salt Factory",
+            "publisher": "[UFA] Nickname09",
+            "verifier": "[UFA] Nickname09"
+        },
+        {
+            "rank": 45,
+            "name": "Master of Puppets",
+            "publisher": "TheZinkYT",
+            "verifier": "[TMG] Scotchtape"
+        },
+        {
+            "rank": 46,
+            "name": "Silentlocked",
+            "publisher": "GDSkele",
+            "verifier": "TFIBB"
+        },
+        {
+            "rank": 47,
+            "name": "Eyes in the Water",
+            "publisher": "hawkyre",
+            "verifier": "[DL] LordVadercraft"
+        },
+        {
+            "rank": 48,
+            "name": "Voltage",
+            "publisher": "ThePurgatory",
+            "verifier": "[OG B] maybee"
+        },
+        {
+            "rank": 49,
+            "name": "KOSETSU",
+            "publisher": "fwe",
+            "verifier": "[WBT] Taiago"
+        },
+        {
+            "rank": 50,
+            "name": "Through The Gates",
+            "publisher": "TeamTheDashers",
+            "verifier": "[67] Zoink"
+        }
+    ],
+    "top_players": []
+}
